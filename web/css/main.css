@@ -1,3 +1,38 @@
-.footer.navbar-fixed-bottom {
-    backround-color: blue;
+body {
+    background-color: #57e2ca;
+}
+
+.offWhiteContainer {
+    border-style: solid;
+    border-width: 3px;
+    border-color: #B0B0B0;
+    background-color: white;
+    margin-bottom: 30px;
+    border-radius: 20px;
+}
+
+.headerContainer {
+    margin-bottom: 30px;
+    margin-top: 25px;
+}
+
+.yakNickName {
+    color: #57e2ca;
+    margin: 25px;
+}
+
+.yakTextContainer {
+    margin: 25px;
+    margin-bottom: 35px;
+}
+
+.navbar-fixed-bottom {
+    background-color: white;
+    opacity: .7;
+    padding-top: 10px;
+}
+
+.arrowsColumn {
+    padding-top: 25px;
+}
 }
