@@ -1,0 +1,1 @@
+Web version of the popular mobile app Yik Yak
